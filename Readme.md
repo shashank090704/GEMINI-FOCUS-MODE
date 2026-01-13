@@ -77,22 +77,4 @@ This is an experimental prototype created for educational and demonstration purp
 📧 agrawalshashank51@gmail.com  
 🔗 [GitHub Profile](https://github.com/shashank090704)
 
-## License
-
-MIT License - feel free to use, modify, and distribute this project.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
-
-## Roadmap
-
-- [ ] Support for additional browsers (Firefox, Edge)
-- [ ] Customizable UI element selection
-- [ ] User-configurable hover delay
-- [ ] Dark mode optimization
-- [ ] Per-site settings
-
----
-
 ⭐ If you find this project useful, please consider starring the repository!
